@@ -1,3 +1,0 @@
-Using visualize_pharm plugin:
-
-Plugin can be inialized in PyMOL cmd by calling 'pharm_view pharmacophore_object_name, mol_object_name'
